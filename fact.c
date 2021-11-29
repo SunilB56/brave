@@ -2,7 +2,7 @@ void fact() {
 #include<stdio.h>
 void main()
 {
- int i,fact=1,number;
+ int i,fact=2,number;
  printf("Enter a number: ");
   scanf("%d",&number);
     for(i=1;i<=number;i++){
