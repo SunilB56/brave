@@ -1,5 +1,5 @@
 #include <stdio.h>
-main(){
-fact();
-big3();
+void main(){
+void fact();
+void big3();
 }
